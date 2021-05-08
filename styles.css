@@ -1,0 +1,111 @@
+body
+{
+    background-color: #fcecdd;
+}
+
+.school-description-1
+{
+    text-align: center;
+    padding:20px;
+}
+
+.school-description-2
+{
+    text-align: center;
+    padding:20px;
+}
+
+
+.school-description-3
+{
+    text-align: center;
+    padding:20px;
+}
+
+
+.section-2 
+{
+    text-align: center;
+    padding:20px;
+}
+
+.section-2 a
+{
+    color:#e1701a;
+}
+
+
+.section-3
+{
+    text-align: center;
+    padding:20px;
+}
+
+.section-3 a
+{
+    color:#e1701a;
+}
+
+footer 
+{
+    text-align:center;
+    color:#3f3697;
+}
+
+
+/*teacher*/
+
+.teacher-h1
+{
+    text-align:center;
+    padding:10px;
+}
+
+.classes
+{
+    text-align:center;
+    padding:10px;
+}
+.class1
+{
+    display:flex;
+    align-items:center;
+    justify-content: center;
+    flex-direction:column;
+    padding-bottom:20px;
+    color:#e1701a;
+    font-weight:500;
+}
+
+.class2
+{
+    display:flex;
+    align-items:center;
+    justify-content: center;
+    flex-direction:column;
+    padding-bottom:20px;
+    color:#00adb5;
+    font-weight:500;
+}
+
+.class3
+{
+    display:flex;
+    align-items:center;
+    justify-content: center;
+    flex-direction:column;
+    padding-bottom:20px;
+    color:#f21170;
+    font-weight:500;
+}
+
+.class4
+{
+    display:flex;
+    align-items:center;
+    justify-content: center;
+    flex-direction:column;
+    padding-bottom:20px;
+    color:#c67ace;
+    font-weight:500;
+}
